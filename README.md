@@ -4,7 +4,7 @@ Curated directory of ultra-fast, flat-rate B2B lead enrichment, Google Maps extr
 
 - 🌐 **Interactive Hub & Token Injector:** **[https://ocakciomursel-pixel.github.io/lucacelli-b2b-mcp-server/](https://ocakciomursel-pixel.github.io/lucacelli-b2b-mcp-server/)**
 - 🤖 **Zero-Install Claude / Cursor / Windsurf MCP Server:** **[ocakciomursel-pixel/lucacelli-b2b-mcp-server](https://github.com/ocakciomursel-pixel/lucacelli-b2b-mcp-server)**
-- 💼 **Pro Agency Outbound & Clay/n8n Vault ($19):** **[Unlock via Polar/Stripe](https://buy.polar.sh/polar_cl_j0IOeyioFqMjcNZRqTo0Cqk6HGslU1yArpHUV47NP1j)**
+- 💼 **Pro Agency Outbound & Clay/n8n Vault ($19):** **[Unlock via Polar/Stripe](https://ocakciomursel-pixel.github.io/lucacelli-b2b-mcp-server/checkout.html)**
 
 ---
 
